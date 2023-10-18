@@ -1,3 +1,5 @@
+// Youtube link: https://youtu.be/DZLPtq8Ib2g
+
 function response(s_or_p) {
     switch (s_or_p) {
       case 1:
